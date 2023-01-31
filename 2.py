@@ -3,7 +3,7 @@
 На входе: три целых числа.
 На выходе: одно целое число."""
 
-a = int(input("enter a: "))
+a = int(input("enter A: "))
 b = int(input("enter b: "))
 c = int(input("enter c: "))
 
