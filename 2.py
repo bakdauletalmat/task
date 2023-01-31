@@ -4,7 +4,7 @@
 На выходе: одно целое число."""
 
 a = int(input("enter Aa:"))
-b = int(input("enter b:"))
+b = int(input("enter Bb:"))
 c = int(input("enter c:"))
 
 if a < b and a < c:
