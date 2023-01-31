@@ -3,9 +3,9 @@
 На входе: три целых числа.
 На выходе: одно целое число."""
 
-a = int(input("enter a:"))
-b = int(input("enter b:"))
-c = int(input("enter c:"))
+a = int(input("enter a: "))
+b = int(input("enter b: "))
+c = int(input("enter c: "))
 
 if a < b and a < c:
     print(a)
@@ -126,4 +126,4 @@ if a > 99 and a <= 999:
     if a % 111 == 0:
         print("Yes!")
     elif a % 111 != 0:
-        print("No
+        print("No")
